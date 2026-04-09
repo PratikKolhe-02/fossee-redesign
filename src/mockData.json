@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Python for Data Science",
+    "date": "May 12, 2026",
+    "instructor": "Dr. Anand Kumar",
+    "status": "Open",
+    "seats": 25
+  },
+  {
+    "id": 2,
+    "title": "OpenFOAM Fundamentals",
+    "date": "May 18, 2026",
+    "instructor": "Prof. Sharma",
+    "status": "Full",
+    "seats": 0
+  },
+  {
+    "id": 3,
+    "title": "Circuit Design with eSim",
+    "date": "Jun 05, 2026",
+    "instructor": "Ramesh Singh",
+    "status": "Open",
+    "seats": 12
+  },
+  {
+    "id": 4,
+    "title": "Advanced Linux Sysadmin",
+    "date": "Jun 20, 2026",
+    "instructor": "Priya Patel",
+    "status": "Open",
+    "seats": 40
+  }
+]
