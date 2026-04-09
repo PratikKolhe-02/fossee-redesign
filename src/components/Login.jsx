@@ -5,7 +5,8 @@ const Login = ({ onBack }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log('Login attempt:', formData);
+    alert("Login successful! Welcome back.");
+    onBack();
   };
 
   return (
